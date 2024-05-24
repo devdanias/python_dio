@@ -1,19 +1,17 @@
 <p align="center">
 <img width="300" height="300" src="https://hermes.dio.me/tracks/aa71615b-e701-4cec-bb64-71ba6974c5fe.png"></img>
 
-<h3 align="center"> Formação Python Developer - DIO</h3>
+<h3 align="center"> Python Developer Training - DIO</h3>
 </p>
 
 ***
 
-## Informações Sobre o Curso
+## Course Information
 
-#### Carga horária: 64 horas
+#### Working hours: 64 hours
 
-#### Nível: Intermediário
+#### Intermediate level
 
-<p>Com uma grande versatilidade, vasta documentação e inúmeras bibliotecas fazem do Python a primeira escolha na área de dados. Contudo, Python não se limita à dados, podendo ser aplicado a games, aplicações web, automatização de tarefas e muito mais! Aprenda do zero da sintaxe básica da linguagem até integrações com APIs e projetos práticos explorando os principais frameworks como Flask e Django.
-
-Modele seu banco de dados com a ferramenta do Sqlalchemy e crie aplicações ainda mais ricas com persistência de dados com MongoDB utilizando a biblioteca do Pymongo</p>
+<p>With great versatility, extensive documentation and numerous libraries make Python the first choice in the data area. However, Python is not limited to data and can be applied to games, web applications, task automation and much more! Learn from scratch the basic syntax of the language to integrations with APIs and practical projects exploring the main frameworks like Flask and Django.</p>
 
 ***
